@@ -1,4 +1,3 @@
-const brokenSyntax = ;
 import React, { useMemo, useState } from 'react';
 import {
   FlatList,
