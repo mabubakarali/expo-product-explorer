@@ -1,3 +1,4 @@
+const brokenVar: number = "intentionally broken";
 import React, { useMemo, useState } from 'react';
 import {
   FlatList,
